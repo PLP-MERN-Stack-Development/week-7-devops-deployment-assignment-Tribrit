@@ -46,7 +46,7 @@ graph TD
     C --> E{Passed?}
     D -->|Yes| F[Backend CD]
     E -->|Yes| G[Frontend CD]
-
+```
 
 🔧 Setup Instructions
 Prerequisites
